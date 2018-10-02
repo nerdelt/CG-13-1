@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberUtilityy", "NumberUtility\NumberUtilityy.csproj", "{010423F2-B554-457B-86D1-D8282E136FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrunchyNumbers", "CrunchyNumbers\CrunchyNumbers.csproj", "{3AF8DC92-299C-4164-B268-2930100A19C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010423F2-B554-457B-86D1-D8282E136FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010423F2-B554-457B-86D1-D8282E136FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010423F2-B554-457B-86D1-D8282E136FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010423F2-B554-457B-86D1-D8282E136FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF8DC92-299C-4164-B268-2930100A19C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF8DC92-299C-4164-B268-2930100A19C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF8DC92-299C-4164-B268-2930100A19C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF8DC92-299C-4164-B268-2930100A19C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35444A2A-2A54-45EC-AD68-791853BF3808}
+	EndGlobalSection
+EndGlobal
